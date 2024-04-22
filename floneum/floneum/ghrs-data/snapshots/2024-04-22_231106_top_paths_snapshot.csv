@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/floneum/floneum,502,231
+/floneum/floneum/releases/tag/v0.2.0,444,287
+/floneum/floneum/tree/main/interfaces/kalosm,251,77
+/floneum/floneum/tree/main/floneum/floneum,120,43
+/floneum/floneum/tree/main/interfaces/kalosm/examples,82,18
+/floneum/floneum/tree/main/floneum,62,15
+/floneum/floneum/commits/main,57,9
+/floneum/floneum/issues,55,34
+/floneum/floneum/tree/main/interfaces,49,15
+/floneum/floneum/blob/main/interfaces/kalosm/examples/prompt_annealing.rs,43,18
