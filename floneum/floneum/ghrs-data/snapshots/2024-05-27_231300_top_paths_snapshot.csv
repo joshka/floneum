@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/floneum/floneum,365,200
+/floneum/floneum/releases/tag/v0.2.0,300,200
+/floneum/floneum/tree/main/interfaces/kalosm,159,55
+/floneum/floneum/tree/main/floneum/floneum,152,50
+/floneum/floneum/tree/main/floneum,73,23
+/floneum/floneum/tree/main/interfaces/kalosm/examples,66,18
+/floneum/floneum/tree/main/models,48,13
+/floneum/floneum/tree/main/interfaces,45,15
+/floneum/floneum/blob/main/interfaces/kalosm/examples/chat.rs,44,17
+/floneum/floneum/tree/main,43,25
